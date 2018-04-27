@@ -1,2 +1,2 @@
 # string_kernel_svm
-python
+SNP数据的string kernel svm实现，使用了shogun机器学习包的string kernel文件，结合sklearn的svc，结果和libsvm一致
